@@ -60,6 +60,6 @@ lib/
 
 [**Sireen**](https://github.com/Sireen-Official)
 
-- **Phone**: [+91 9446604259](tel:+12025550199)
+- **Phone**: [+91 9446604259](tel:+919446604259)
 - **Email**: [sireenibnukabeer@gmail.com](mailto:sireenibnukabeer@gmail.com)
 - **WhatsApp**: [https://wa.me/9446604259](https://wa.me/9446604259)
