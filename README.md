@@ -1,3 +1,3 @@
-# stratagile_todo_test
+# To-Do List App
 
-A new Flutter project.
+A simple Flutter To-Do List application with CRUD operations.
